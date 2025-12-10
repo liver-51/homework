@@ -1,0 +1,16 @@
+v1.0.0 创建空类（Main,Store,Pet,Assignment）
+v1.0.1 完成assignment的注册信息
+v1.0.2 完成Pet类
+v1.0.3 完成showWelcomeScreen
+v1.0.4 完成addmember
+v1.0.5 完成ID和phonenumber的验证
+v1.0.6 完成runMenu
+v1.0.7 完成printMember
+v1.0.8 完成Store
+v1.0.9 完成addPet
+v1.0.10 完成printPets
+v1.0.11 完成printCheapestPet
+v1.0.12 完成printPetsAboveAPrice和printPetsBelowAPrice
+v1.1.0 完成deletePet
+v1.2.0 完成Menu的字体颜色变化
+v1.3.0 完成saveData和loadData
